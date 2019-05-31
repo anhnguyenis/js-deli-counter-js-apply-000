@@ -5,9 +5,8 @@ function takeANumber(katzDeliLine,name){
 }
 //This also works better:
 // function takeANumber(katzDeliLine,name){
-  // var lineposition = katzDeliLine.push(name);
-  //return `Welcome, ${name}. You are number ${lineposition} in line.`;
-}
+  //var lineposition = katzDeliLine.push(name);
+  //return `Welcome, ${name}. You are number ${lineposition} in line.`;}
 
 //Technical test:
 //var ticket = 0
